@@ -2,7 +2,8 @@
 
 Not happy with the lack of Sci-Fi Elder Futhark fonts available I
 decided to make one.
-![sample](image url "NeoFuthark.png")
+
+![sample](NeoFuthark.png "sample")
 
 
 ## Glyphs
