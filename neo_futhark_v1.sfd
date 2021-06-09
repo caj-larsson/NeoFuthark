@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1622957551
-ModificationTime: 1623067515
+ModificationTime: 1623243352
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -51,11 +51,11 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 120
-WinInfo: 0 12 14
+WinInfo: 0 19 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 25 27
+BeginChars: 26 28
 
 StartChar: fehu
 Encoding: 0 5792 0
@@ -98,7 +98,7 @@ SplineSet
  103 64 92 53 79 53 c 0
  66 53 56 64 56 77 c 2
 EndSplineSet
-Validated: 4194305
+Validated: 1
 EndChar
 
 StartChar: uni16A0
@@ -1288,9 +1288,43 @@ StartChar: space
 Encoding: 24 32 26
 Width: 400
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
+Validated: 1
+EndChar
+
+StartChar: uni16CB
+Encoding: 25 5835 27
+Width: 1024
+VWidth: 0
+Flags: HO
+LayerCount: 2
+Fore
+SplineSet
+213 698 m 4
+ 221 698 230 692 231 684 c 4
+ 231 638 231 591 231 545 c 4
+ 231 452 231 359 231 266 c 5
+ 294 329 357 392 420 455 c 4
+ 430 462 436 477 449 479 c 4
+ 450 479 451 479 452 479 c 4
+ 462 479 469 470 469 461 c 4
+ 469 458 468 454 466 451 c 4
+ 386 370 305 290 225 210 c 4
+ 222 207 217 205 213 205 c 4
+ 205 205 196 211 195 220 c 4
+ 195 271 195 321 195 372 c 4
+ 195 473 195 574 195 675 c 4
+ 193 686 201 698 213 698 c 4
+451 76 m 4
+ 461 76 469 67 469 57 c 4
+ 469 46 460 40 451 40 c 4
+ 445 40 440 42 437 47 c 4
+ 434 50 433 53 433 57 c 4
+ 433 66 440 76 450 76 c 4
+ 451 76 l 4
+EndSplineSet
 Validated: 1
 EndChar
 EndChars
